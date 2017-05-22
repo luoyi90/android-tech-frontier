@@ -11,6 +11,11 @@
 * [优秀推荐文章](#recommend)
 * [已完成文章列表](#articles)
 
+## 其他学习资源
+* [Android 源码设计模式分析 地址](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
+* [Android优秀学习资料整理](the-bad-guys/)
+* [软件架构模式](https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf)
+
 ## 参与步骤
 
 > 注意事项中有详细说明，这里只是简要地介绍步骤
@@ -42,6 +47,7 @@
 |----------|-------------|
 | [AndroidWeekly](androidweekly) | 每周更新国外的技术咨询、开源库等信息[AndroidWeekly](http://androidweekly.net/) |
 | [Android Blog](android-blog) | Android官方技术博客[Android Dev Blog](http://android-developers.blogspot.com/) |
+| [codepath](http://guides.codepath.com/android) | Android开发优秀文章 | 
 | [Others](others) | 其他来源的优秀文章 |
 
 <b id="recommend" ></b>
@@ -74,13 +80,6 @@ https://github.com/bboyfeiyu/android-tech-frontier/issues/1
 
 ## 版权信息
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />该项目下的所有作品由<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/bboyfeiyu/android-tech-frontier" property="cc:attributionName" rel="cc:attributionURL">Android开发技术前线</a>团队翻译，采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-
-## Android优秀学习资料
-[ Android优秀学习资料整理 ](the-bad-guys/)
-
-## 免费优秀的电子书
-1. [软件架构模式 ](https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf)
 
 <b id="articles" ></b>
 ## 已完成列表
